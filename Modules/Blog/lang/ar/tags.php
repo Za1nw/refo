@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'Manage tags' => 'إدارة الوسوم',
+    'Add tag' => 'إضافة وسم',
+    'edit_tag' => 'تعديل الوسم',
+    'translate_tag' => 'ترجمة الوسم',
+    'Create a new tag quickly without leaving this form.' => 'أنشئ وسمًا جديدًا بسرعة دون مغادرة هذا النموذج.',
+    'Tag name' => 'اسم الوسم',
+    'Enter tag name' => 'أدخل اسم الوسم',
+    'translation_locale' => 'اللغة',
+    'translation_name' => 'الاسم المترجم',
+    'drawer_description_edit' => 'تعديل بيانات العنصر',
+    'drawer_description_create' => 'إضافة عنصر جديد',
+    'Cancel' => 'إلغاء',
+    'Saving...' => 'جارٍ الحفظ...',
+    'Save' => 'حفظ',
+    'column_id' => 'المعرف',
+    'column_name' => 'الاسم',
+    'column_slug' => 'الرابط',
+    'column_is_active' => 'الحالة',
+    'column_created_at' => 'تاريخ الإنشاء',
+    'column_updated_at' => 'تاريخ التحديث',
+    'active' => 'مفعل',
+    'inactive' => 'غير مفعل',
+];

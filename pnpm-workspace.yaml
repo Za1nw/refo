@@ -1,0 +1,6 @@
+allowBuilds:
+  '@parcel/watcher': true
+  unrs-resolver: true
+publicHoistPattern:
+  - '@inertiajs/core'
+  - '@tiptap/*'

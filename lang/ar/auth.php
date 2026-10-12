@@ -1,0 +1,65 @@
+<?php
+
+return [
+    'failed' => 'بيانات الاعتماد هذه غير متطابقة مع سجلاتنا.',
+    'password' => 'كلمة المرور المقدمة غير صحيحة.',
+    'throttle' => 'عدد محاولات تسجيل الدخول كبير جداً. يرجى المحاولة مرة أخرى بعد :seconds ثانية.',
+    'login' => 'تسجيل الدخول',
+    'register' => 'إنشاء حساب',
+     'Login to your account' => 'تسجيل الدخول إلى حسابك',
+     'Email' => 'البريد الإلكتروني',
+    'Name' => 'الاسم',
+     'Password' => 'كلمة المرور',
+     'Confirm password' => 'تأكيد كلمة المرور',
+    'Forgot password?' => 'نسيت كلمة المرور؟',
+    'Don\'t have an account?' => 'ليس لديك حساب؟',
+    'Already have an account?' => 'هل لديك حساب بالفعل؟',
+    'Create your account' => 'إنشاء حسابك',
+     'Enter your email below to create your account' => 'أدخل بريدك الإلكتروني أدناه لإنشاء حسابك',
+    'We\'ll use this to contact you. We will not share your email with anyone else.' => 'سنستخدم هذا للتواصل معك. لن نشارك بريدك الإلكتروني مع أي شخص آخر.',
+    'Confirm Password' => 'تأكيد كلمة المرور',
+    'Must be at least 8 characters long.' => 'يجب أن يكون 8 أحرف على الأقل.',
+    'Create Account' => 'إنشاء حساب',
+    'Sign in' => 'تسجيل الدخول',
+    'Reset password' => 'إعادة تعيين كلمة المرور',
+    'Please enter your new password below' => 'يرجى إدخال كلمة المرور الجديدة أدناه',
+    'Enter your email to receive a password reset link' => 'أدخل بريدك الإلكتروني لتلقي رابط إعادة تعيين كلمة المرور',
+    'Send Reset Link' => 'إرسال رابط إعادة تعيين كلمة المرور',
+    'Remember me' => 'تذكرني',
+    'Forgot password' => 'نسيت كلمة المرور',
+    'Or, return to' => 'أو، العودة إلى',
+    'Please review the form fields and try again.' => 'يرجى مراجعة حقول النموذج ثم المحاولة مرة أخرى.',
+    'Verify your email' => 'تحقق من بريدك الإلكتروني',
+    'We sent a verification link to your email address. Please verify your email before continuing.' => 'أرسلنا رابط التحقق إلى بريدك الإلكتروني. يرجى تأكيد البريد قبل المتابعة.',
+    'A new verification link has been sent to your email address.' => 'تم إرسال رابط تحقق جديد إلى بريدك الإلكتروني.',
+    'Resend verification email' => 'إعادة إرسال بريد التحقق',
+    'Log out' => 'تسجيل الخروج',
+    "Two-factor authentication" => "المصادقة الثنائية",
+
+    // react pages
+    'Log in to your account' => 'تسجيل الدخول إلى حسابك',
+    'Enter your email and password below to log in' => 'أدخل بريدك الإلكتروني وكلمة المرور أدناه لتسجيل الدخول',
+
+    'Recovery code' => 'رمز الاسترداد',
+    'Please confirm access to your account by entering one of your emergency recovery codes.' => 'يرجى تأكيد الوصول إلى حسابك بإدخال أحد رموز الاسترداد الطارئة.',
+    'login using an authentication code' => 'تسجيل الدخول باستخدام رمز المصادقة',
+    'Authentication code' => 'رمز المصادقة',
+    'Enter the authentication code provided by your authenticator application.' => 'أدخل رمز المصادقة المقدم من تطبيق المصادقة.',
+    'login using a recovery code' => 'تسجيل الدخول باستخدام رمز الاسترداد',
+    'Enter recovery code' => 'أدخل رمز الاسترداد',
+    'Continue' => 'متابعة',
+    'or you can ' => 'أو يمكنك ',
+
+    // confierm password
+    'Confirm your password' => 'تأكيد كلمة المرور',
+    'This is a secure area of the application. Please confirm your password before continuing.' => 'هذه منطقة آمنة من التطبيق. يرجى تأكيد كلمة المرور الخاصة بك قبل المتابعة.',
+
+
+    // passkey
+    'Authenticating...'=>'جاري المصادقة...',
+    'Sign in with a passkey'=> 'تسجيل الدخول باستخدام مفتاح المرور',
+    'Or continue with email'=>'أو المتابعة باستخدام البريد الإلكتروني',
+    'Confirm with passkey' => 'تأكيد باستخدام مفتاح المرور',
+    'Confirming...'=> 'جاري التأكيد...',
+    'Or confirm with password' => 'أو التأكيد باستخدام كلمة المرور',
+];

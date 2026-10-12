@@ -1,0 +1,7 @@
+{
+    "Blog": true,
+    "Language": true,
+    "Auth": true,
+    "MenuBuilder": true,
+    "Settings": true
+}

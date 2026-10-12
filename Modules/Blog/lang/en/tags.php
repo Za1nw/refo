@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'Manage tags' => 'Manage tags',
+    'Add tag' => 'Add tag',
+    'edit_tag' => 'Edit tag',
+    'translate_tag' => 'Translate tag',
+    'Create a new tag quickly without leaving this form.' => 'Create a new tag quickly without leaving this form.',
+    'Tag name' => 'Tag name',
+    'Enter tag name' => 'Enter tag name',
+    'translation_locale' => 'Locale',
+    'translation_name' => 'Translated Name',
+    'drawer_description_edit' => 'Edit item details',
+    'drawer_description_create' => 'Add a new item',
+    'Cancel' => 'Cancel',
+    'Saving...' => 'Saving...',
+    'Save' => 'Save',
+    'column_id' => 'ID',
+    'column_name' => 'Name',
+    'column_slug' => 'Slug',
+    'column_is_active' => 'Status',
+    'column_created_at' => 'Created at',
+    'column_updated_at' => 'Updated at',
+    'active' => 'Active',
+    'inactive' => 'Inactive',
+];

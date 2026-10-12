@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "@/*": [
+                "./resources/admin/*"
+            ],
+            "@blog/*": [
+                "./Modules/Blog/resources/assets/admin/*"
+            ],
+            "@language/*": [
+                "./Modules/Language/resources/assets/admin/*"
+            ],
+            "@menubuilder/*": [
+                "./Modules/MenuBuilder/resources/assets/admin/*"
+            ],
+            "@settings/*": [
+                "./Modules/Settings/resources/assets/admin/*"
+            ]
+        }
+    }
+}
